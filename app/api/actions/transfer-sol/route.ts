@@ -6,7 +6,7 @@ import { Transaction, PublicKey } from "@solana/web3.js";
 export async function GET(request: Request) {    
   const responseBody : ActionGetResponse = {
     icon: "https://res.cloudinary.com/dek4edhda/image/upload/v1728419177/Asset_10Asset_utknt1.png",
-    description: " Help bring smile to faces",
+    description: " Help us to support solana blockchain",
     title: "Donate",
     label: " Hit me! ",
     // error: {

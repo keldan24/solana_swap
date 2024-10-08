@@ -9,11 +9,11 @@
 
 .innerContainer {
   width: 600px;
-  background-color: #100f0f;
+  background: linear-gradient(135deg, #2a0657, #0c001a );
   padding: 20px;
   border-radius: 12px;
   gap: 25px;
-  border: 1px solid #03e1ff;
+  border: 1px solid #b63efc;
   color: white;
   display: flex;
   flex-direction: column;
